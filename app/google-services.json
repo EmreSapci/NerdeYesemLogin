@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "5885912170",
+    "firebase_url": "https://nerdeyesem-846a3.firebaseio.com",
+    "project_id": "nerdeyesem-846a3",
+    "storage_bucket": "nerdeyesem-846a3.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:5885912170:android:2e34261fc513fb59959613",
+        "android_client_info": {
+          "package_name": "com.example.nerdeyesem"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "5885912170-mgiahue4bu0vughbkh1ihc7k3ek0v6v8.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.nerdeyesem",
+            "certificate_hash": "c7a37ecdc45d82c43347e6a037c3cd7a1ab7fda2"
+          }
+        },
+        {
+          "client_id": "5885912170-qemtdbi1ki0i3n4uima5cu3rt50blfo9.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDDHDHDkuReS17sXvxS3GjeTc9uOiVnK8c"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "5885912170-qemtdbi1ki0i3n4uima5cu3rt50blfo9.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
